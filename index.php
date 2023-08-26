@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name='viewpoint' content='width=device-width,initial-scale=1.0'>
+        <meta name='viewport' content='width=device-width,initial-scale=1.0'>
         <title>PageQuest</title>
         <link rel='stylesheet' type='text/css' href='style/Main.css'>
         <script type='text/javascript' src='JQuery/JQuery.js'></script>
@@ -11,9 +11,9 @@
         <h2>PageQuest</h2>
         <div class="SearchContainer">
             <br>
-            <input type=text id='Search' placeholder="Search Here">
+            <input type="text" id="Search" placeholder="Search Here">
             <br><br>
-            <button class='button' type=button id='ActionSearch'>Search</button>
+            <button class="button" type="button" id="ActionSearch">Search</button>
             <br><br>
         </div>
         <div class='LoadContainer'>
